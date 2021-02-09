@@ -5,3 +5,8 @@ Response Variable (a.k.a Dependent Variable): In a data set, the response variab
 Predictor Variable (a.k.a Independent Variable): In a data set, predictor variables (Xi) are those using which the prediction is made on response variable. (Image below).
 
 ![alt text](https://github.com/muthu1698/Big-Market-Analysis/blob/main/Rplot01.png)
+
+This suggests that item_visibility < 2 must be an important factor in determining sales.
+
+
+ we infer that OUT027 has contributed to majority of sales followed by OUT35. OUT10 and OUT19 have probably the least footfall, thereby contributing to the least outlet sales
