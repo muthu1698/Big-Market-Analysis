@@ -8,5 +8,6 @@ Predictor Variable (a.k.a Independent Variable): In a data set, predictor variab
 
 This suggests that item_visibility < 2 must be an important factor in determining sales.
 
+![alt text](https://github.com/muthu1698/Big-Market-Analysis/blob/main/Rplot.png)
 
  we infer that OUT027 has contributed to majority of sales followed by OUT35. OUT10 and OUT19 have probably the least footfall, thereby contributing to the least outlet sales
